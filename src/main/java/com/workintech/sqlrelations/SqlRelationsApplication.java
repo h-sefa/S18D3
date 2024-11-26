@@ -8,6 +8,7 @@ public class SqlRelationsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SqlRelationsApplication.class, args);
+
 	}
 
 }
